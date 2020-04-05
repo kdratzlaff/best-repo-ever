@@ -1,2 +1,2 @@
 # best-repo-ever
-Trailhead Exercise
+Trailhead Exercise for GIT
